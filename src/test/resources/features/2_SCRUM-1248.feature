@@ -21,3 +21,4 @@ Feature: Default
 		Users should not able to go back to homepage by clicking step back button
 		When Users click the step back button
 		Then Users should stay on the same page
+		Then users

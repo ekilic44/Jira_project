@@ -57,4 +57,7 @@ public class SC1247_Step_Definitions {
         }
 
 
+    @Then("users")
+    public void users() {
+    }
 }
